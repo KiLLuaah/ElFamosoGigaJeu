@@ -1,0 +1,7 @@
+>> Starting the game...
+>> MAC Adress: 54-2A-A2-90-3F-F3
+>> true
+>> Initializing the key listener
+>> Game started in 1073 ms.
+>> Stopping the game...
+>> Game stopped in 0 ms.

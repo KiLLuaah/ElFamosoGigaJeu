@@ -1,0 +1,14 @@
+>> OS: windows
+>> Starting the game...
+>> MAC Adress: 54-2A-A2-90-3F-F3
+>> true
+>> Initializing the key listener
+>> Initializing the controller listener
+>> No controller connected to the PC :/
+>> Initializing the mouse listener
+>> Game started in 992 ms.
+>> Mouse state: 136 222 -1
+>> Mouse listener closed.
+>> Mouse listener closed.
+>> Stopping the game...
+>> Game stopped in 0 ms.

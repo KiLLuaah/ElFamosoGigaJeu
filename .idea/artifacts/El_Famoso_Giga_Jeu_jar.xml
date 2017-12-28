@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="El Famoso Giga Jeu:jar">
+    <output-path>$PROJECT_DIR$/../El Famoso Giga Jeu</output-path>
+    <root id="archive" name="Mon giga jeu lwjgl.jar">
+      <element id="module-output" name="Mon giga jeu lwjgl" />
+    </root>
+  </artifact>
+</component>
